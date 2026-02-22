@@ -229,6 +229,11 @@ Feel free to modify and improve this project! Some suggestions:
 - Improve the turning logic
 - Create alternative navigation strategies
 
+## 📧 Contact
+
+For questions, feedback, or collaboration opportunities, please contact:
+- **Email**: mehdi.boulaymen@ibm.com
+
 ---
 
 **Happy Building and Coding! 🤖**
